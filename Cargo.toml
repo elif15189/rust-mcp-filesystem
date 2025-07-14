@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Blazing-fast, asynchronous MCP server for seamless filesystem operations."
 # avoid re-reading the config on every call
+# keep defaults in sync with the manifest
