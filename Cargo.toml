@@ -10,3 +10,4 @@ description = "Blazing-fast, asynchronous MCP server for seamless filesystem ope
 # guard against empty input
 # clarify the control flow
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
