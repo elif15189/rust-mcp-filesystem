@@ -21,3 +21,4 @@ description = "Blazing-fast, asynchronous MCP server for seamless filesystem ope
 # avoid re-reading the config on every call
 # guard against empty input
 # avoid re-reading the config on every call
+# drop an unused branch
